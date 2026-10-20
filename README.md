@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Qubits** · Team ID `VTU-QFF-HC-0109` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Qubits)
+[⬆ Back to Top](#qubits)
 
 </div>
